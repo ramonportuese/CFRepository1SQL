@@ -1,4 +1,4 @@
-this is the read me part 
+
 
 This school project is based off of fictional data and a fictional company called Rockbuster Stealth LLC "Rockbuster." 
 Rockbuster Stealth LLC is a movie rental company that use to have brick and mortar stores all across
